@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "https://aashif000.github.io/Deepchat.github.io/",   
+  base: "/Deepchat/",   
   server: {
     host: "::",
     port: 8080,
