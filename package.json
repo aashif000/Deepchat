@@ -1,9 +1,9 @@
 {
-  "name": "DeepChat",
+  "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aashif000.github.io/Deepchat",
+  "homepage": "https://github.com/aashif000/Deepchat.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -47,7 +47,7 @@
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
-    "DeepChat": "file:",
+    "Deepchat": "file:",
     "embla-carousel-react": "^8.3.0",
     "input-otp": "^1.2.4",
     "lucide-react": "^0.462.0",
